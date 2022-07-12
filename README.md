@@ -5,7 +5,7 @@
 - 자스민
 - [주디](./judy/README.md)
 - [샐리](/%EC%83%90%EB%A6%AC.md)
-- [레넌] (./rennon.md)
+- [레넌](./rennon.md)
 - [슬로](./slow.md))
 - 기론
 
